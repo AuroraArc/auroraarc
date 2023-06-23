@@ -28,10 +28,10 @@ This is my [blog](https://auroraarc.github.io/), where I mostly write about topi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraArc&layout=compact&theme=tokyonight&card_width=500" alt="top langs"/>
 </div>
 
-
+<!--
 ---
 
-### ✍️ Blog Posts :
+### ✍️ Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
