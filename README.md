@@ -1,3 +1,4 @@
+[Blog](https://auroraarc.github.io/) \
 ![](https://komarev.com/ghpvc/?username=AuroraArc)
 
 <!--
