@@ -14,14 +14,18 @@
 
 ### About Me :
 
-I'm a student programmer who's interested in AI and machine learning.
+My name is Henry Yu, and I'm a student programmer who's interested in AI and machine learning.
 
-This is my [blog](https://auroraarc.github.io/), where I mostly write about topics that I recently covered. Other times, I might write about my thoughts on things I'm interested in.
-- 📋 I'm currently working on an CNN image classifier and designing an algorithm for the game 2048.
+This is my [blog](https://auroraarc.github.io/) (inactive currently), where I mostly write about topics that I recently covered. Other times, I might write about my thoughts on things I'm interested in.
+
+- 📋 I'm currently working on a CNN image classifier and designing an algorithm for the game 2048.
 
 - 🔎 I'm currently learning [CS70](https://sp23.eecs70.org/) (Discrete Math), [CS61B](https://sp23.datastructur.es/) (DSA), and the [fast.ai](https://course.fast.ai/) curriculum about deep learning.
 
 - ✉️ Contacts are on the top.
+
+List of published projects:
+- [Prison recidivism in Iowa state prisons](https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf)
 <p>&nbsp;</p>
 
 <div id="top langs">
