@@ -14,7 +14,7 @@
 
 ### About Me :
 
-My name is Henry Yu, and I'm a student programmer who's interested in AI and machine learning.
+I'm a student programmer who's interested in AI and machine learning.
 
 This is my [blog](https://auroraarc.github.io/) (inactive currently), where I mostly write about topics that I recently covered. Other times, I might write about my thoughts on things I'm interested in.
 
