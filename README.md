@@ -16,9 +16,9 @@
 
 I'm a student programmer who's interested in AI and machine learning.
 
-This is my [blog](https://auroraarc.github.io/) (inactive currently), where I mostly write about topics that I recently covered. Other times, I might write about my thoughts on things I'm interested in.
+This is my [portfolio](https://auroraarc.github.io/), where you can see my projects and what I'm currently working on.
 
-- 📋 I'm currently trying to perform a time series analysis using historical calibration data from IBM Quantum's ibm_perth system by implementing a LSTM model with L1 regularization and conducting parallel quantum tomography to mitigate noise and decoherence on quantum systems.
+- 📋 I'm currently trying to perform a time series analysis using historical calibration data from IBM Quantum's ibm_perth system by implementing an LSTM model with L1 regularization and conducting parallel quantum tomography to mitigate noise and decoherence on quantum systems.
 
 - 🔎 I'm currently learning [CS70](https://sp23.eecs70.org/) (Discrete Math), [CS61B](https://sp23.datastructur.es/) (DSA), and the [fast.ai](https://course.fast.ai/) curriculum about deep learning.
 
