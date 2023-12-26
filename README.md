@@ -20,7 +20,7 @@ This is my [portfolio](https://auroraarc.github.io/), where you can see my proje
 
 - 📋 Currently on break.
 
-- 🔎 I'm currently learning Qiskit's [Intro to Quantum Computing](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO) and reading Griffith's *Introduction to Quantum Mechanics*.
+- 🔎 I'm currently learning Qiskit's [Intro to Quantum Computing](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO) ([notes](https://github.com/AuroraArc/CourseNBooks/blob/main/Courses/Qiskit/notes/pdf/quantum_notes.pdf) if you want to follow) and reading Griffith's *Introduction to Quantum Mechanics*.
 
 - ✉️ Contacts are on the top.
 
