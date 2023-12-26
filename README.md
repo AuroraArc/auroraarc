@@ -6,9 +6,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
 </div>
-<div id="profile views" align=center>
-  <img src="https://komarev.com/ghpvc/?username=AuroraArc&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
 
 ---
 
