@@ -14,7 +14,7 @@
 
 ### About Me :
 
-I'm a student programmer who's interested in AI and machine learning.
+I'm a student programmer who's interested in ML/DL and quantum computing.
 
 This is my [portfolio](https://auroraarc.github.io/), where you can see my projects and what I'm currently working on.
 
