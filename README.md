@@ -1,5 +1,5 @@
 <div id="badges" align=center>
-  <a href="https://www.linkedin.com/in/henry-yu-36b620275/">
+  <a href="https://www.linkedin.com/in/henry-yu09/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:henry.yu094@gmail.com">
@@ -11,19 +11,22 @@
 
 ### About Me :
 
-I'm a student programmer who's interested in ML/DL and quantum computing.
+I'm a student programmer interested in quantum computing and AI alignment.
 
-This is my [portfolio](https://auroraarc.github.io/), where you can see my projects and what I'm currently working on.
+This is my [portfolio](https://hyu9.vercel.app/), where you can see my projects and what I'm currently working on.
 
-- 📋 Currently on break.
+- 📋 Currently in school.
 
-- 🔎 I'm currently learning Qiskit's [Intro to Quantum Computing](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO) ([notes](https://github.com/AuroraArc/CourseNBooks/blob/main/Courses/Qiskit/notes/pdf/quantum_notes.pdf) if you want to follow) and reading Griffith's *Introduction to Quantum Mechanics*.
+- 🔎 I'm currently reading through a few research papers regarding AI alignment:
+  - [Scaling Monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 
 - ✉️ Contacts are on the top.
 
-List of projects, both published and not:
-- [Prison recidivism in Iowa state prisons](https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf)
-- [Understanding the Influence of Qubit Features on Error Rates](https://github.com/AuroraArc/qubit-feature-analysis)
+List of my most recently completed projects:
+- [Quantum Computing and ML for DFT Calculations in Proteins](https://hyu9.vercel.app/projects/quantum-computing-and-ml-for-dft-calculations-in-proteins)
+- [Music Generation Using GGAs](https://hyu9.vercel.app/projects/music-generation-using-ggas-(old))
+- [Analysis of Noise on Quantum Models](https://hyu9.vercel.app/projects/analysis-of-noise-on-quantum-models)
+- [Understanding the Influence of Qubit Features on Error Rates](https://hyu9.vercel.app/projects/understanding-the-influence-of-qubit-features-on-error-rates)
 <p>&nbsp;</p>
 
 <div id="top langs">
